@@ -1,3 +1,8 @@
+var name = "Diwali"
+var holiday = "sam"
+var days = 87 
+
+
 function happyHolidays() {
   return "Happy holidays!"
 }
@@ -10,6 +15,6 @@ function happyHolidayTo(holiday) {
   return "Happy ${holiday}, you!"
 }
 
-function holidayCountdown('holiday', 'days') {
+function holidayCountdown(holiday, days) {
   return "It\'s ${days} days until ${holiday}!"
 }
