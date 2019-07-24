@@ -1,17 +1,17 @@
-// write your code below!
+/* write your code below!
 Function happyHolidays() {
 return 
-}   
+} */  
 
 function happyHolidaysTo() {
-  return 'Happy ho lidays, ${name}!'
+  return 'Happy holidays!, ${name}!'
 }
 
-function happyHolidaysTo(Diwali, Sam){
+function happyHolidaysTo("Diwali", "Sam"){
   return 'Happy ${holiday}, ${name}'
   console.log(happyHolidaysTo)
 }
 
-function holidayCountDown(86, Diwali){
+function holidayCountDown(86, "Diwali"){
   return 'Its ${days} days until ${holiday}'
 }
