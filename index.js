@@ -12,6 +12,6 @@ function happyHolidaysTo("Diwali", "Sam"){
   console.log(happyHolidaysTo)
 }
 
-function holidayCountDown(86, "Diwali"){
+function holidayCountdown(86, "Diwali"){
   return 'Its ${days} days until ${holiday}'
 }
