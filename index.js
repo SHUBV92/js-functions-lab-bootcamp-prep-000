@@ -3,6 +3,11 @@ Function happyHolidays() {
 return 
 } */  
 
+var holiday = "Diwali" 
+var name = "sam"
+var days = 86
+
+
 function happyHolidaysTo() {
   return 'Happy holidays!, ${name}!'
 }
